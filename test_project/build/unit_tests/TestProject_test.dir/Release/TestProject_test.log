@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/gbo/test_project/unit_tests/CMakeLists.txt
+  CMake does not need to re-run because C:/gbo/test_project/build/unit_tests/CMakeFiles/generate.stamp is up-to-date.
+  GTest_main.cpp
+  test_simple.cpp
+  Character.cpp
+  Generating Code...
+  TestProject_test.vcxproj -> C:\gbo\test_project\build\unit_tests\Release\TestProject_test.exe
